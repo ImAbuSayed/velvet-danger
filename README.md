@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-danger/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Velvet Danger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-danger/) |
+| **Get License** | [Music Rights & Licensing for Velvet Danger](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-danger/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1929886dc5e08bb8c7f25835b630f8cce4571b85aa279734a7c141cb47ec4c9c` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
